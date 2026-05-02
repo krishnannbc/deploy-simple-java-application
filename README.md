@@ -1,4 +1,4 @@
-# Krishna Devops Training - added boobal
+# Krishna Devops Training - added boobal 2
 
 This is a Spring Boot web application that displays "Krishna Devops Training" on the main page with navigation to About and Contact pages.
 
